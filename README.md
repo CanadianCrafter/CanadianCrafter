@@ -1,6 +1,6 @@
 ### Bryan Wang
 
-Hello! My name is Bryan Wang. I'm a grade 12 student at Bur Oak Secondary School in Ontario, Canada.
+Hello! My name is Bryan Wang. Currently, I'm a grade 12 student at Bur Oak Secondary School in Ontario, Canada.
 
 Currently Working On:
 * Making a Digit Recognizer
@@ -22,3 +22,15 @@ Currently Learning:
 * JS
 * AP CS A
 * HTCPCP
+
+Tech Stack:
+* Languages: Java
+* Tools: Eclipse, VSCode, Git/GitHub.
+* Knowledgeable: Python, HTML/CSS
+
+#
+
+[![Bryan Wang's Github Stats](https://github-readme-stats.vercel.app/api?username=CanadianCrafter&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianCrafter&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+The pretty diagrams are courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
