@@ -12,7 +12,7 @@ Planned:
 * Simulate firefly synchronization using my boids project.
 * Coding Snake in C++ as an exercise in the language.
 * Making an ASCII rotating torus in C++ as a harder exercise. 
-* Make the tutorial project on Unity.
+* Complete the tutorial project on Unity.
 
 Currently Learning:
 * React
@@ -20,7 +20,6 @@ Currently Learning:
 * CSS
 * C++
 * JS
-* AP CS A
 * HTCPCP
 
 Tech Stack:
