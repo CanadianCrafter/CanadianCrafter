@@ -1,11 +1,12 @@
 ### Bryan Wang
 
-Hello! My name is Bryan Wang. Currently, I'm a grade 12 student at Bur Oak Secondary School in Ontario, Canada.
-
+Hello! My name is Bryan Wang. Currently, I'm a computer science student at UWaterloo who is interested in math, computer science, and philosophy.
 Currently Working On:
-* Making a Digit Recognizer
+* Making a Digit Recognizer.
 * Learning C++ by solving competitive programming questions.
 * Adding to my personal website.
+* Regularly updating the Text-to-Speech Highlighter Chrome extension.
+* Language learner TypeRacer.
 
 Planned:
 * Update this README
