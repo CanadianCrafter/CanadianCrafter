@@ -4,7 +4,7 @@ Hello! My name is Bryan Wang. Currently, I'm a computer science student at UWate
 Currently Working On:
 * Making a Digit Recognizer.
 * Learning C++ by solving competitive programming questions.
-* Adding to my personal website.
+* Adding/Translating to my personal website.
 * Regularly updating the Text-to-Speech Highlighter Chrome extension.
 * Language learner TypeRacer.
 
@@ -16,6 +16,7 @@ Planned:
 * Complete the tutorial project on Unity.
 
 Currently Learning:
+* Racket
 * React
 * HTML
 * CSS
