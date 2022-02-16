@@ -1,32 +1,32 @@
 ### Bryan Wang
 
-Hello! My name is Bryan Wang. Currently, I'm a computer science student at UWaterloo who is interested in math, computer science, and philosophy.
+Hello! It's a pleasure meeting you. My name is Bryan Wang, and I am a computer science student at the University of Waterloo. As an aspiring software developer, I set my eyes to the frontiers of computer science, especially in the fields of AI and machine learning.
+
+I also fill my time with some less academic pursuits such as philosophy, political theory, photography, cycling, studying Chinese, piano, etc. It's an ever fluctuating list as I decide on who I wish to become, and what virtues I seek to cultivate. I know it must seem odd for someone pursuing computer science to dedicate so much to the humanities. But to me, the latter is what will make computer science's designs useful to the world. Isn't that what I ultimately wish to do?
 
 Currently Working On:
+* Making an ASCII rotating torus. 
+* Regularly updating the Text-to-Speech Highlighter Chrome extension.
 * Making a Digit Recognizer from scratch.
 * Adding/Translating to my personal website.
-* Regularly updating the Text-to-Speech Highlighter Chrome extension.
-* Learning C++ by solving competitive programming questions.
-
 
 Planned:
 * Language learner TypeRacer.
-* Update this README
 * Simulate firefly synchronization using my boids project.
-* Making an ASCII rotating torus. 
 * Complete the tutorial project on Unity.
+* Update this README
 
 Currently Learning:
 * Racket
-* HTML
+* VIM
+* C
 * C++
 * JS
-* CSS
-* React
+* Python
 * HTCPCP
 
 Tech Stack:
-* Languages: Java
+* Languages: Java, Racket, LaTeX, HTML.
 * Tools: Eclipse, VSCode, Git/GitHub.
 * Knowledgeable: Python, HTML/CSS
 
