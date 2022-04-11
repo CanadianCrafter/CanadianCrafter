@@ -11,6 +11,8 @@ Currently Working On:
 * Adding/Translating to my personal website.
 
 Planned:
+* Daisy Bell
+* Chinese Wordle
 * Language learner TypeRacer.
 * Simulate firefly synchronization using my boids project.
 * Complete the tutorial project on Unity.
