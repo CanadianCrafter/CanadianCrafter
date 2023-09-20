@@ -1,28 +1,86 @@
-### Bryan Wang
+![GitHub ReadMe Banner](https://github.com/CanadianCrafter/CanadianCrafter/assets/62266519/bb3d37b7-9b95-4e68-8cfa-abc45702df12)
 
-Hello! It's a pleasure meeting you. My name is Bryan Wang, and I am a computer science student at the University of Waterloo. As an aspiring software developer, I set my eyes to the frontiers of computer science, especially in the fields of AI and machine learning. On the side, I like working on compilers for esolangs!
+Hello! It's a pleasure meeting you. My name is Bryan Wang, and I am a third-year computer science student at the University of Waterloo. As an aspiring software developer, my main area of interest and experience is in machine learning, but on the side, I like working on compilers for esolangs!
 
-I also fill my time with some less academic pursuits such as piano, photography, cycling, philosophy, etc. It's an ever fluctuating list as I decide on who I wish to become, and what virtues I seek to cultivate. I know it must seem odd for someone pursuing computer science to dedicate so much to the humanities. But to me, the latter is what will make computer science's designs useful to the world. Isn't that what I ultimately wish to do?
+During my free time, I really enjoy [photography](https://canadiancrafter.github.io/photography.html), playing [piano](https://www.bilibili.com/video/BV1Et4y1M78s/?spm_id_from=333.999.0.0), and cycling!
 
-Currently Working On:
+You can also check out my website [here](https://canadiancrafter.github.io/) and my resume [here](https://github.com/CanadianCrafter/CanadianCrafter.github.io/blob/832653aed8e939b3b99c7590ba9d8a79601f0ab6/Resumes/September%202023%20Resume%201.pdf)
+
+I'm currently seeking an internship for Winter 2024.
+
+## Tech Stack
+#### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+#### Tools / Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### Miscellaneous
+![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+
+## Project To Do List
+#### Currently Working On
 * Using NeuroEvolution of Augmenting Topologies to teach my AI how to play Snake (and hopefully Flappy Bird in the future!)
-* A compiler for a Chinese programming langauge that compiles to MIPS assembly.
+* A compiler for a Chinese programming language that compiles to MIPS assembly.
 * Learning TensorFlow; I made good progress, but it'll be interesting to fully take advantage of the library.
 * Maintaining the Text-to-Speech Highlighter Chrome extension.
 * Updating my personal website with new photos!
 
-Planned:
+#### Planned
 * A compiler for the esolang Piet.
+* Using a RNN to generate music by giving each note a corresponding character and training off that.
 * Simulate firefly synchronization using my boids project.
 * Update this README :P
 
-Tech Stack:
-* Languages: Java, C/C++, Python, ARM, MIPS, Bash, Racket 
-* Tools: AWS, Azure, Linux, MySQL, Git/GitHub, Terraform, Vim, VSCode, Jira
-* Knowledgeable: JavaScript, HTML/CSS
+<details>
+  <summary><samp>&#9776; GitHub Stats </samp></summary>
+  <p align="center">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=CanadianCrafter&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=CanadianCrafter&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    </picture>
+    <br />
+    <picture>
+      <source 
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=CanadianCrafter&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-streak-stats.herokuapp.com/?user=CanadianCrafter&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    </picture>
+    <br />
 
+      
+  The pretty diagrams are courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+  </p>
+</details>
 
-[![Bryan Wang's Github Stats](https://github-readme-stats.vercel.app/api?username=CanadianCrafter&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanadianCrafter&layout=compact&theme=radical&exclude_repo=TOHacks-Smile)](https://github.com/anuraghazra/github-readme-stats)
-
-The pretty diagrams are courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
