@@ -4,7 +4,7 @@ Hello! It's a pleasure meeting you. My name is Bryan Wang, and I am a third-year
 
 During my free time, I really enjoy [photography](https://canadiancrafter.github.io/photography.html), playing [piano](https://www.bilibili.com/video/BV1Et4y1M78s/?spm_id_from=333.999.0.0), and cycling!
 
-You can also check out my website [here](https://canadiancrafter.github.io/) and my resume [here](https://github.com/CanadianCrafter/CanadianCrafter.github.io/blob/832653aed8e939b3b99c7590ba9d8a79601f0ab6/Resumes/September%202023%20Resume%201.pdf)
+You can also check out my website [here](https://canadiancrafter.github.io/) and my resume [here](https://canadiancrafter.github.io/Resumes/September%202023%20Resume%201.pdf).
 
 I'm currently seeking an internship for Winter 2024.
 
@@ -47,7 +47,7 @@ I'm currently seeking an internship for Winter 2024.
 
 #### Planned
 * A compiler for the esolang Piet.
-* Using a RNN to generate music by giving each note a corresponding character and training off that.
+* Using an RNN to generate music by giving each note a corresponding character and training off that.
 * Simulate firefly synchronization using my boids project.
 * Update this README :P
 
@@ -81,6 +81,7 @@ I'm currently seeking an internship for Winter 2024.
 
       
   The pretty diagrams are courtesy of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+  The pretty badges are courtesy of <a href="https://github.com/Ileriayo/markdown-badges">markdown-badges</a>
   </p>
 </details>
 
