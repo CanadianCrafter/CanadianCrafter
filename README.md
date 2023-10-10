@@ -6,7 +6,7 @@ During my free time, I really enjoy [photography](https://canadiancrafter.github
 
 You can also check out my website [here](https://canadiancrafter.github.io/) and my resume [here](https://canadiancrafter.github.io/Resumes/September%202023%20Resume%201.pdf).
 
-I'm currently seeking an internship for Winter 2024.
+I will be interning at Huawei for Winter 2024.
 
 ## Tech Stack
 #### Languages
