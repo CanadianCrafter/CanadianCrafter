@@ -4,9 +4,10 @@ Hello! It's a pleasure meeting you. My name is Bryan Wang, and I am a third-year
 
 During my free time, I really enjoy [photography](https://canadiancrafter.github.io/photography.html), playing [piano](https://www.bilibili.com/video/BV1Et4y1M78s/?spm_id_from=333.999.0.0), and cycling!
 
-You can also check out my website [here](https://canadiancrafter.github.io/) and my resume [here](https://canadiancrafter.github.io/Resumes/September%202023%20Resume%201.pdf).
+You can also check out my website [here](https://canadiancrafter.github.io/) and my resume [here](https://canadiancrafter.github.io/Resumes/Resume%20May%202024.pdf).
 
-I will be interning at Huawei for Winter 2024.
+Former Huawei Intern.
+Former Xe.com Intern.
 
 ## Tech Stack
 #### Languages
