@@ -1,6 +1,4 @@
-![GitHub ReadMe Banner](https://github.com/CanadianCrafter/CanadianCrafter/assets/62266519/bb3d37b7-9b95-4e68-8cfa-abc45702df12)
-
-Hello! It's a pleasure meeting you. My name is Bryan Wang, and I am a third-year computer science student at the University of Waterloo. As an aspiring software developer, my main area of interest and experience is in machine learning, but on the side, I like working on compilers for esolangs!
+Hello! It's a pleasure meeting you. My name is Bryan Wang, and I am a fourth-year computer science student at the University of Waterloo. As an aspiring software developer, my main area of interest and experience is in machine learning, but on the side, I like working on compilers for esolangs!
 
 During my free time, I really enjoy [photography](https://canadiancrafter.github.io/photography.html), playing [piano](https://www.bilibili.com/video/BV1Et4y1M78s/?spm_id_from=333.999.0.0), and cycling!
 
